@@ -394,7 +394,7 @@ main .content-wrap {
     display: none;
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 480px){
     
 .nav-wrap {
     padding: 10px;
