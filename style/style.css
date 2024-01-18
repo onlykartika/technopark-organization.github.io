@@ -44,6 +44,9 @@ li a {
     color: white;
 }
 
+li a:hover {
+    color: #1EF1FF;
+}
 
 .content-wrap {
     align-items: center;
